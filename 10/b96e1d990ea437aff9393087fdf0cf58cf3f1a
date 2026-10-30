@@ -1,0 +1,36 @@
+pyproject.toml
+  s_baaffdb61848c8::t_9fbfef65e1d18c 247-248,250-256
+  s_baaffdb61848c8::t_7ace4fa2d2669a 249
+src/pydantic_ai_harness/pyproject.toml
+  s_baaffdb61848c8::t_8b77c919926e6c 70
+src/pydantic_ai_harness/pydantic_ai_harness/daytona_sandbox/_backend.py
+  s_baaffdb61848c8::t_8b77c919926e6c 224
+tests/harness/daytona_sandbox/test_daytona_live.py
+  s_baaffdb61848c8::t_8b77c919926e6c 61
+.github/scripts/pydantic-ai-runner.lock
+  s_56b2474f38b6b8::t_7038e10ab79b14 20-26,1158
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "10b96e1d990ea437aff9393087fdf0cf58cf3f1a",
+  "prompts": {},
+  "sessions": {
+    "s_56b2474f38b6b8": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_013a263c3ffernjUEd3n8Ojk47",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Mislav Ivanda <mislavivanda454@gmail.com>"
+    },
+    "s_baaffdb61848c8": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_e737a4779ffeXZy4VmcgrTgC4r",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Mislav Ivanda <mislavivanda454@gmail.com>"
+    }
+  }
+}
