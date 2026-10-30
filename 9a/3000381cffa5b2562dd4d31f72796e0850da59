@@ -1,0 +1,19 @@
+.github/scripts/pydantic-ai-runner.lock
+  s_56b2474f38b6b8::t_84147943b0dc7a 1151
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9a3000381cffa5b2562dd4d31f72796e0850da59",
+  "prompts": {},
+  "sessions": {
+    "s_56b2474f38b6b8": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_013a263c3ffernjUEd3n8Ojk47",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Mislav Ivanda <mislavivanda454@gmail.com>"
+    }
+  }
+}
